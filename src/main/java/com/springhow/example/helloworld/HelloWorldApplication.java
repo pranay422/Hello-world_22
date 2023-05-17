@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "Welcome to CI-CD Pipeline Demo automation by Sandeep Gill code change 09-05-2023..";
+        return "Welcome to CI-CD Pipeline Demo automation by Sandeep Gill code change on 17-05-2023..";
     }
 
 }
